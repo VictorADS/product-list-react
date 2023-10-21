@@ -1,4 +1,5 @@
-import './Header.css';
+import React from 'react';
+import './Header.scss';
 
 function Header() {
   return (<nav className="navbar">
@@ -22,5 +23,6 @@ function Header() {
     </ul>
   </nav>);
 }
+
 
 export default Header;
