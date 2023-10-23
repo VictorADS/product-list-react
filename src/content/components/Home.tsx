@@ -6,7 +6,6 @@ function Home() {
     <div>
       <Header />
       <div className={'text-center'}>
-        <p> Start coding here </p>
       </div>
     </div>
   );
