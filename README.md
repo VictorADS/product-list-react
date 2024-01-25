@@ -14,3 +14,13 @@ puis
 
 
 Les maquettes sont disponible [ici](https://www.figma.com/file/o5SGBIyoudAVzKPFFaf9jH/contra-wireframe-kit-(Community)?type=design&node-id=186%3A2264&mode=design&t=90KhVc0ERvDuf5AS-1)
+
+
+## Exercice 1
+Intègre la page productList
+(Les données sont disponibles en dur dans product.model)
+
+## Exercice 2 
+Récupère les produits depuis l'API mis à disposition
+
+A partir de cette étape, tu peux essayer de refactorer ton code pour le rendre le plus générique possible !
